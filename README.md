@@ -1,1 +1,2 @@
-# Pro_2024_final
+# Audio-Summarization-App-using-Gemini-LLM
+Audio Summarization App using Gemini LLM.
